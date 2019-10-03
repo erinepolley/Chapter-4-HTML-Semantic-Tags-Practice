@@ -1,0 +1,30 @@
+body {
+    font-family: helvetica, sans-serif;
+}
+
+h1 {
+    color: darkblue;
+    font-variant: small-caps;
+    font-size: 200%;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+h2 {
+    font-variant: small-caps;
+}
+
+section {
+    background-color: lightgrey;
+}
+
+footer {
+    background-color: darkblue;
+    color: whitesmoke;
+}
+
+footer  h3 + h4 {
+font-weight: 100;
+font-size: 90%;
+font-style: italic;
+}
